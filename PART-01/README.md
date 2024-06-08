@@ -1,7 +1,8 @@
 
 # Fluent Python | Part-1
 
-The Python Data Model  
+The Python Data Model
+An Array of Sequences
 
 
 
