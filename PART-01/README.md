@@ -1,7 +1,9 @@
 
 # Fluent Python | Part-1
 
-The Python Data Model
+* **[The Python Data Model](https://github.com/nihathalici/Fluent-Python/tree/main/PART-01/CHPT-01-The-Python-Data%20Model)** 
+
+
 An Array of Sequences
 Dictionaries and Sets
 Unicode Text Versus Bytes
