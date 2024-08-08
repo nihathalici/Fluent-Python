@@ -6,9 +6,9 @@
 * **[Dictionaries and Sets](https://github.com/nihathalici/Fluent-Python/tree/main/PART-01/CHPT-03-Dictionaries-and-Sets)**
 * **[Unicode Text Versus Bytes](https://github.com/nihathalici/Fluent-Python/tree/main/PART-01/CHPT-04-Unicode-Text-Versus-Bytes)**
 * **[Data Class Builders](https://github.com/nihathalici/Fluent-Python/tree/main/PART-01/CHPT-05-Data-Class-Builders)**
+* **[Object References Mutability and Recycling](https://github.com/nihathalici/Fluent-Python/tree/main/PART-01/CHPT-06-Object-References-Mutability-and-Recycling)**
 
 
-Object References Mutability and Recycling
 
 Links and Appendix
 ========================================================
