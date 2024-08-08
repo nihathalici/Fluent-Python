@@ -1,5 +1,7 @@
 # Fluent Python | Part-2
 
+* **[Functions as First Class Objects](https://github.com/nihathalici/Fluent-Python/tree/main/PART-02/CHPT-07-Functions-as-First-Class-Objects)**
+
 
 
 Links and Appendix
