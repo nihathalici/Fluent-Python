@@ -1,6 +1,9 @@
 # Fluent Python | Part-3
 
 
+* **[A Pythonic Object](https://github.com/nihathalici/Fluent-Python/tree/main/PART-03/CHPT-11-A-Pythonic-Object)**
+
+
 
 Links and Appendix
 ========================================================
