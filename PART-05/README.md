@@ -1,6 +1,7 @@
 # Fluent Python | Part-5
 
 * **[Dynamic Attributes and Properties](https://github.com/nihathalici/Fluent-Python/tree/main/PART-05/CHPT-22-Dynamic-Attributes-and-Properties)**
+* **[Attribute Descriptors](https://github.com/nihathalici/Fluent-Python/tree/main/PART-05/CHPT-23-Attribute-Descriptors)**
 
 
 
