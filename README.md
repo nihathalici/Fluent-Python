@@ -7,9 +7,11 @@ Some reviews from the readers:
 * This is the best python book I have ever read.
 * This is an excellent book for learning how to use the Python language proficiently. It is written for experienced developers.
 
-
+# Part-1
 
 * **[The Python Data Model](https://github.com/nihathalici/Fluent-Python/tree/main/PART-01/CHPT-01-The-Python-Data%20Model)**
+* **[An Array of Sequences](https://github.com/nihathalici/Fluent-Python/tree/main/PART-01/CHPT-02-An-Array-of-Sequences)**
+
 
 
 Links and Appendix
