@@ -11,6 +11,7 @@ Some reviews from the readers:
 
 * **[The Python Data Model](https://github.com/nihathalici/Fluent-Python/tree/main/PART-01/CHPT-01-The-Python-Data%20Model)**
 * **[An Array of Sequences](https://github.com/nihathalici/Fluent-Python/tree/main/PART-01/CHPT-02-An-Array-of-Sequences)**
+* * **[Dictionaries and Sets](https://github.com/nihathalici/Fluent-Python/tree/main/PART-01/CHPT-03-Dictionaries-and-Sets)**
 
 
 
