@@ -23,6 +23,7 @@ Some reviews from the readers:
 * **[Decorators and Closures](https://github.com/nihathalici/Fluent-Python/tree/main/PART-02/CHPT-09-Decorators-and-Closures)**
 * **[Design Patterns with First Class Functions](https://github.com/nihathalici/Fluent-Python/tree/main/PART-02/CHPT-10-Design-Patterns-with-First-Class-Functions)**
 
+# Part-3
 
 
 Links and Appendix
